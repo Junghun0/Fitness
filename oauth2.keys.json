@@ -1,0 +1,20 @@
+{
+  "web": {
+    "client_id": "1047825588884-i4pj5on6ob34gmbotg6pb93fo1or44ja.apps.googleusercontent.com",
+    "project_id": "bandcv12",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://www.googleapis.com/oauth2/v3/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "tTo9LQ7b_n4XmkjoKm0wcmqI",
+    "redirect_uris": [
+      "https://localhost:5000/oauth2callback",
+      "https://developers.google.com/oauthplayground"
+
+    ],
+    "javascript_origins": [
+      "https://localhost:5000",
+      "https://developers.google.com"
+
+    ]
+  }
+}
